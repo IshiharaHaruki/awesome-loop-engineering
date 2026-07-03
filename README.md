@@ -40,6 +40,8 @@ Systems that run agents in loops for you.
 
 ## Patterns & Guides
 
+- **[Loop Engineering: The Complete Guide](https://claudeskills.info/loop-engineering)** *(ours)* — The operator loop stack (harness → contract → state → checker → checkpoint), loop anatomy, patterns, and anti-patterns.
+- **[Harness Engineering: The Complete Guide](https://claudeskills.info/harness-engineering)** *(ours)* — The environment layer under every loop: Agent = Model + Harness, the seven-component stack, and a maturity model.
 - **[Loop Engineering Orange Book](https://github.com/alchaincyf/loop-engineering-orange-book)** \[zh] — A plain-language guide to loop engineering, written for non-experts (Chinese, with an English PDF). `(~929★ at listing)`
 
 ## The Six Building Blocks
