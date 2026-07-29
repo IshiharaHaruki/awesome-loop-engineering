@@ -63,6 +63,7 @@ You can't tune a loop you don't measure. Four metrics that matter:
 - **Checker catch rate** — The share of defects caught by automated verifiers (tests, linters, hooks) instead of by humans downstream; low catch rate means your checks are weaker than your reviewers.
 - **Rework ratio** — How much agent output gets discarded or redone before merging; a high ratio points at bad task framing, weak stop conditions, or missing context.
 - **Cost per merged change** — Total tokens and compute spent per change that actually lands; the unit economics that decide whether the loop beats doing it by hand.
+- **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** — A browser-agent benchmark for 283 everyday tasks on live websites, combining request interception with five-layer execution traces to make end-to-end verification and intervention measurable. `(~535★ at listing)`
 
 ## Contributing
 
