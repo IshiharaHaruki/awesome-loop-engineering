@@ -33,6 +33,7 @@ Systems that run agents in loops for you.
 - **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** — Practical patterns, starters, and CLI tools (loop-audit, loop-init, loop-cost) for loop engineering with AI coding agents. `(~5,064★ at listing)`
 - **[loom](https://github.com/valkor-ai/loom)** — Loop engineering for agentic software delivery. `(~474★ at listing)`
 - **[inferoa](https://github.com/agentic-in/inferoa)** — Inference-native agent harness built for loop engineering. `(~356★ at listing)`
+- **[100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** — Coding-agent loop with specification checks, independent review and evidence-based completion. `(~349★ at listing)`
 - **[Cliclaw](https://github.com/Happenmass/Cliclaw)** — Orchestrates Claude Code and Codex as parallel sub-agents over tmux, with auto-continue, execute-then-review, and cross-session memory. `(~106★ at listing)`
 - **[loopx](https://github.com/huangruiteng/loopx)** — Loop engineering for long-running AI agents. `(~79★ at listing)`
 - **[ralphify](https://github.com/computerlovetech/ralphify)** — A runtime for loop engineering: keeps a coding agent running in a continuous loop. `(~69★ at listing)`
